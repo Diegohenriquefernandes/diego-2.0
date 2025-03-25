@@ -74,16 +74,7 @@ section {
 }
 
 
-#tropicalia {
-    position: relative;
-    padding-top: 5rem;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
-    background-size: 180px 180px;
-    /* Ajuste o tamanho conforme necessário */
-}
+
 
 #tropicalia .container {
     display: flex;
@@ -103,14 +94,11 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #e6e6e6;
 
 }
 
-.fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
-    background-size: 180px 180px;
-}
+
 
 #contato {
     background-image: url('img/tn.png');
